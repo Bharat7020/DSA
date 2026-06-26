@@ -14,4 +14,8 @@ Auther-Bharat Kamble
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bharat7020/DSA/tree/master/0001-two-sum) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Bharat7020/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
