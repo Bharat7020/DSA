@@ -10,6 +10,7 @@ Auther-Bharat Kamble
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bharat7020/DSA/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Bharat7020/DSA/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bharat7020/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Bharat7020/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/Bharat7020/DSA/tree/master/0238-product-of-array-except-self) |
@@ -36,6 +37,7 @@ Auther-Bharat Kamble
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Bharat7020/DSA/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Bharat7020/DSA/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
