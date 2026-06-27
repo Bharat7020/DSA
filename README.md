@@ -12,6 +12,7 @@ Auther-Bharat Kamble
 | [0001-two-sum](https://github.com/Bharat7020/DSA/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Bharat7020/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/Bharat7020/DSA/tree/master/0238-product-of-array-except-self) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Bharat7020/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
