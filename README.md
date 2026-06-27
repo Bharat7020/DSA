@@ -17,6 +17,7 @@ Auther-Bharat Kamble
 | [0128-longest-consecutive-sequence](https://github.com/Bharat7020/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Bharat7020/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Bharat7020/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Bharat7020/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Bharat7020/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bharat7020/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Bharat7020/DSA/tree/master/0238-product-of-array-except-self) |
@@ -48,6 +49,7 @@ Auther-Bharat Kamble
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bharat7020/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Bharat7020/DSA/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/Bharat7020/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Bharat7020/DSA/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
@@ -71,4 +73,8 @@ Auther-Bharat Kamble
 | ------- |
 | [0169-majority-element](https://github.com/Bharat7020/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Bharat7020/DSA/tree/master/0229-majority-element-ii) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Bharat7020/DSA/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
