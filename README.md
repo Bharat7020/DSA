@@ -18,6 +18,7 @@ Auther-Bharat Kamble
 | [0152-maximum-product-subarray](https://github.com/Bharat7020/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Bharat7020/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bharat7020/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Bharat7020/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Bharat7020/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Bharat7020/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Bharat7020/DSA/tree/master/0485-max-consecutive-ones) |
@@ -29,6 +30,7 @@ Auther-Bharat Kamble
 | [0128-longest-consecutive-sequence](https://github.com/Bharat7020/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Bharat7020/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bharat7020/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Bharat7020/DSA/tree/master/0229-majority-element-ii) |
 ## Database
 |  |
 | ------- |
@@ -63,8 +65,10 @@ Auther-Bharat Kamble
 | ------- |
 | [0169-majority-element](https://github.com/Bharat7020/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bharat7020/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Bharat7020/DSA/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bharat7020/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Bharat7020/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
