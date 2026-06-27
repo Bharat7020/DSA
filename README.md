@@ -14,6 +14,7 @@ Auther-Bharat Kamble
 | [0027-remove-element](https://github.com/Bharat7020/DSA/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bharat7020/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Bharat7020/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Bharat7020/DSA/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Bharat7020/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Bharat7020/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Bharat7020/DSA/tree/master/0485-max-consecutive-ones) |
@@ -23,6 +24,7 @@ Auther-Bharat Kamble
 | ------- |
 | [0001-two-sum](https://github.com/Bharat7020/DSA/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Bharat7020/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Bharat7020/DSA/tree/master/0169-majority-element) |
 ## Database
 |  |
 | ------- |
@@ -45,4 +47,16 @@ Auther-Bharat Kamble
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bharat7020/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Bharat7020/DSA/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Bharat7020/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Bharat7020/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
