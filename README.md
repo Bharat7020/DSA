@@ -25,6 +25,7 @@ Auther-Bharat Kamble
 | [0283-move-zeroes](https://github.com/Bharat7020/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Bharat7020/DSA/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Bharat7020/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Bharat7020/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@ Auther-Bharat Kamble
 | [0075-sort-colors](https://github.com/Bharat7020/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Bharat7020/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Bharat7020/DSA/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Bharat7020/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,4 +82,8 @@ Auther-Bharat Kamble
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Bharat7020/DSA/tree/master/0189-rotate-array) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Bharat7020/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
