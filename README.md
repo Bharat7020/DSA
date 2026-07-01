@@ -90,6 +90,7 @@ Auther-Bharat Kamble
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Bharat7020/DSA/tree/master/0189-rotate-array) |
+| [0371-sum-of-two-integers](https://github.com/Bharat7020/DSA/tree/master/0371-sum-of-two-integers) |
 ## Simulation
 |  |
 | ------- |
@@ -103,4 +104,8 @@ Auther-Bharat Kamble
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bharat7020/DSA/tree/master/0011-container-with-most-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/Bharat7020/DSA/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
