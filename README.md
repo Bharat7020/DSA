@@ -26,6 +26,7 @@ Auther-Bharat Kamble
 | [0217-contains-duplicate](https://github.com/Bharat7020/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bharat7020/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Bharat7020/DSA/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Bharat7020/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Bharat7020/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Bharat7020/DSA/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Bharat7020/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -38,6 +39,7 @@ Auther-Bharat Kamble
 | [0169-majority-element](https://github.com/Bharat7020/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bharat7020/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bharat7020/DSA/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Bharat7020/DSA/tree/master/0268-missing-number) |
 ## Database
 |  |
 | ------- |
@@ -83,6 +85,7 @@ Auther-Bharat Kamble
 | [0169-majority-element](https://github.com/Bharat7020/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bharat7020/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bharat7020/DSA/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Bharat7020/DSA/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -92,6 +95,7 @@ Auther-Bharat Kamble
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Bharat7020/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Bharat7020/DSA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Bharat7020/DSA/tree/master/0371-sum-of-two-integers) |
 ## Simulation
 |  |
@@ -102,6 +106,7 @@ Auther-Bharat Kamble
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bharat7020/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bharat7020/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Bharat7020/DSA/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
@@ -110,6 +115,7 @@ Auther-Bharat Kamble
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Bharat7020/DSA/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Bharat7020/DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Bharat7020/DSA/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Bharat7020/DSA/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
