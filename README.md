@@ -120,4 +120,12 @@ Auther-Bharat Kamble
 | [0268-missing-number](https://github.com/Bharat7020/DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Bharat7020/DSA/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Bharat7020/DSA/tree/master/0371-sum-of-two-integers) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Bharat7020/DSA/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Bharat7020/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
