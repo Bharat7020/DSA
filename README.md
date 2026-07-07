@@ -36,6 +36,7 @@ Auther-Bharat Kamble
 | ------- |
 | [0001-two-sum](https://github.com/Bharat7020/DSA/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Bharat7020/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/Bharat7020/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Bharat7020/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bharat7020/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bharat7020/DSA/tree/master/0229-majority-element-ii) |
@@ -61,6 +62,7 @@ Auther-Bharat Kamble
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bharat7020/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Bharat7020/DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Bharat7020/DSA/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/Bharat7020/DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Bharat7020/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Bharat7020/DSA/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bharat7020/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -123,6 +125,7 @@ Auther-Bharat Kamble
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Bharat7020/DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Bharat7020/DSA/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
