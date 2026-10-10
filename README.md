@@ -102,6 +102,7 @@ Auther-Bharat Kamble
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Bharat7020/DSA/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/Bharat7020/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Bharat7020/DSA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Bharat7020/DSA/tree/master/0371-sum-of-two-integers) |
