@@ -160,13 +160,19 @@ Auther-Bharat Kamble
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Bharat7020/DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Bharat7020/DSA/tree/master/0143-reorder-list) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Bharat7020/DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Bharat7020/DSA/tree/master/0020-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Bharat7020/DSA/tree/master/0014-longest-common-prefix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Bharat7020/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
